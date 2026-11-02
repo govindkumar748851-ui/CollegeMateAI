@@ -1,0 +1,12 @@
+target/
+*.class
+.vscode/
+src/main/resources/config.properties
+.env
+.env.*
+
+config.properties
+
+CollegeMateAI_APISecurity_Backup/
+
+*.bak
